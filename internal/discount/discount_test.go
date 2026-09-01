@@ -3,9 +3,9 @@ package discount_test
 import (
 	"testing"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/discount"
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/internal/discount"
+	"github.com/netologist/go-discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 func newTestOrder() *domain.Order {

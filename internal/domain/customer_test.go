@@ -3,7 +3,7 @@ package domain_test
 import (
 	"testing"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/domain"
 )
 
 func TestCustomerZeroValueAndConstructors(t *testing.T) {

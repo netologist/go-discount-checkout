@@ -4,7 +4,7 @@ import (
 	"cmp"
 	"strings"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/domain"
 )
 
 // ContainsSKU is a Specification that requires at least a minimum quantity of a

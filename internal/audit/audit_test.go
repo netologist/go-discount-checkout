@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/audit"
+	"github.com/netologist/go-discount-checkout/internal/audit"
 )
 
 func TestInMemoryLogger(t *testing.T) {

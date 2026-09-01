@@ -3,9 +3,9 @@ package spec_test
 import (
 	"testing"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
-	"github.com/hasanozgan/kata/discount-checkout/internal/spec"
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/spec"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 func orderWith(customer domain.Customer, sku string, price string, qty int) *domain.Order {

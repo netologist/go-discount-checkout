@@ -1,8 +1,8 @@
 package discount
 
 import (
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 // FixedAmountOff applies a fixed cash discount to the basket (e.g. £5 off or £20 off).

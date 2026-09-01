@@ -1,7 +1,7 @@
 package spec
 
 import (
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/domain"
 )
 
 // MinimumTier is a Specification that requires the customer to hold at least the

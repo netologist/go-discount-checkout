@@ -3,7 +3,7 @@ package spec
 import (
 	"strings"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/domain"
 )
 
 // HasCoupon is an activation Specification that requires the customer to have

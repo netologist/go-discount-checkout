@@ -1,7 +1,7 @@
 package spec
 
 import (
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/domain"
 )
 
 // MemberOnly is a Specification that restricts a promotion to loyalty-card or

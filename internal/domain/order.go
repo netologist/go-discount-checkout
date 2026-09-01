@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 var (

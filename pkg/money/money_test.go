@@ -7,7 +7,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 // Go Pattern: Table-Driven Tests (Tablo Güdümlü Testler)

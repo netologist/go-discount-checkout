@@ -4,8 +4,8 @@ import (
 	"cmp"
 	"strings"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 // BOGOF computes Buy X Get Y Free (multi-buy) discounts.

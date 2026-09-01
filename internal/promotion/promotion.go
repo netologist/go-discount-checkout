@@ -6,9 +6,9 @@ import (
 	"cmp"
 	"strings"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/discount"
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
-	"github.com/hasanozgan/kata/discount-checkout/internal/spec"
+	"github.com/netologist/go-discount-checkout/internal/discount"
+	"github.com/netologist/go-discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/spec"
 )
 
 // Promotion binds a name, an eligibility rule (When), a saving formula (What),

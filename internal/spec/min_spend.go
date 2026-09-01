@@ -1,8 +1,8 @@
 package spec
 
 import (
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 // MinimumSpend is a Specification that requires the gross basket subtotal to be

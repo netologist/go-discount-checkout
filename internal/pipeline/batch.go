@@ -9,8 +9,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/checkout"
-	"github.com/hasanozgan/kata/discount-checkout/internal/domain"
+	"github.com/netologist/go-discount-checkout/internal/checkout"
+	"github.com/netologist/go-discount-checkout/internal/domain"
 )
 
 const (

@@ -5,9 +5,9 @@ package checkout
 import (
 	"strings"
 
-	"github.com/hasanozgan/kata/discount-checkout/internal/audit"
-	"github.com/hasanozgan/kata/discount-checkout/internal/promotion"
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/internal/audit"
+	"github.com/netologist/go-discount-checkout/internal/promotion"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 // ConflictPolicy is the strategy function that decides which of two competing

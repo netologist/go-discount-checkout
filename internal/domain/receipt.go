@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/hasanozgan/kata/discount-checkout/pkg/money"
+	"github.com/netologist/go-discount-checkout/pkg/money"
 )
 
 // AppliedDiscount is the audit trail entry for a promotion successfully applied to a basket.
